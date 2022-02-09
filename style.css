@@ -80,17 +80,17 @@ figcaption{
 }
 
 
-
-
-
-span{
-    background-color: rgb(218, 218, 218);
+.grass{
+    font-weight: 2000;
 }
 
+.important{
+    font-weight: 100;
+}
 
-
-
-
+.BgcGrey{
+    background-color: rgb(218, 218, 218);
+}
 
 
 header{
