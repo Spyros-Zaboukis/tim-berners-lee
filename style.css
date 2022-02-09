@@ -103,3 +103,8 @@ cite{
    font-weight: 2000;
    color: rgb(125, 125, 125);
 }
+
+img{
+    width: auto;
+    height: auto;
+}
