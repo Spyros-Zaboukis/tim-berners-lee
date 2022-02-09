@@ -3,4 +3,4 @@
 This is a project to honored the inventor of the web.
 
 
-You can go to the repository her : [GitHub Spyros](git@github.com:Spyros-Zaboukis/tim-berners-lee.git/ "GitHub Project Tim Berners-Lee").
+You can go to the repository her : [GitHub Spyros](https://github.com/Spyros-Zaboukis/tim-berners-lee.git "GitHub Project Tim Berners-Lee").
