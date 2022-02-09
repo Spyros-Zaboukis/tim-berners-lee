@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Raleway:wght@100&display=swap');
+body{
+    background-color: rgb(235, 235, 235);
+}
+main{
+    font-family: 'Open-Sens';
+    font-size: 1.6rem;
+    color: rgb(125, 125, 132);
+}
+header{
+    margin-top: 4rem;
+}
+section, header{
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    margin-left: 22%;
+    padding: 3rem;
+    margin-bottom: 2rem;
+}
+figure{
+    display: flex;
+}
+
+.imageMain{
+    border : 0.3em solid rgb(207, 207, 207);
+    border-radius: 50%;
+}
+
+h1{
+    color : rgb(281, 85, 85);
+    font-weight: bold;
+    font-size: 2.4rem;
+}
+
+.buttonStyle{
+    background-color : rgb(281, 85, 85);
+    border-color : rgb(221, 85, 85);
+    padding : 0.7rem;
+    color : white;
+    font-size: 1.3rem;
+    border-radius: 0.4rem;
+}
+
+.blockList__ul{
+        display: flex;
+        justify-content: center;
+        text-align: center;     
+        list-style-type: none;
+        text-transform: uppercase;
+}
+
+.blockList__ul li{
+    margin: 3rem;
+}
+
+i{
+    font-size: 3.2rem;
+    margin-bottom: 1.5rem;
+    color: rgb(204, 204, 204);
+}
+a{
+    color: rgb(204, 204, 204);
+    text-decoration: none;
+}
+
+a:hover, i:hover{
+    color :rgb(221, 85, 85);
+    transition-duration: 200ms;
+    
+}
+.films, h3{
+    text-align: center;
+}
+figure{
+    display: flex;
+}
+
+figcaption{
+    margin-left: 2rem;
+}
+
+
+
+
+
+span{
+    background-color: rgb(218, 218, 218);
+}
+
+
+
+
+
+
+
+header{
+    text-align: center;
+}
+
+cite{
+   font-family: 'Franklin Gothic Medium';
+   font-size: 2rem;
+   font-weight: 2000;
+   color: rgb(125, 125, 125);
+}
